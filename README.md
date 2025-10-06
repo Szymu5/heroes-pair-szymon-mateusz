@@ -1,2 +1,2 @@
-WWW
+Readme Szymona i Mateusza
  
