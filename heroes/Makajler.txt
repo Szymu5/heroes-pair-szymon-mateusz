@@ -1,0 +1,3 @@
+imie: Igor Grabowski
+świat: Rzeczywistość
+cecha: Wielka ilość kwantów
